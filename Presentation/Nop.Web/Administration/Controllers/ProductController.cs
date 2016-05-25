@@ -682,7 +682,7 @@ namespace Nop.Admin.Controllers
 
                 model.UnlimitedDownloads = true;
                 model.IsShipEnabled = true;
-                model.AllowCustomerReviews = true;
+                // model.AllowCustomerReviews = true;
                 model.Published = true;
                 model.VisibleIndividually = true;
             }

@@ -79,6 +79,5 @@ C:\zcode\Libraries\Nop.Core\bin\Debug\System.Web.Razor.xml
 C:\zcode\Libraries\Nop.Core\bin\Debug\System.Web.WebPages.xml
 C:\zcode\Libraries\Nop.Core\bin\Debug\System.Web.WebPages.Deployment.xml
 C:\zcode\Libraries\Nop.Core\bin\Debug\System.Web.WebPages.Razor.xml
-C:\zcode\Libraries\Nop.Core\obj\Debug\Nop.Core.csprojResolveAssemblyReference.cache
 C:\zcode\Libraries\Nop.Core\obj\Debug\Nop.Core.dll
 C:\zcode\Libraries\Nop.Core\obj\Debug\Nop.Core.pdb
