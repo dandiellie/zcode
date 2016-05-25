@@ -19,3 +19,14 @@ C:\Users\dandi\Dropbox\Public\ZApparel\demo-template\Presentation\Nop.Web\Plugin
 C:\Users\dandi\Dropbox\Public\ZApparel\demo-template\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.csprojResolveAssemblyReference.cache
 C:\Users\dandi\Dropbox\Public\ZApparel\demo-template\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.dll
 C:\Users\dandi\Dropbox\Public\ZApparel\demo-template\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.pdb
+C:\zcode\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Views\PaymentPurchaseOrder\Configure.cshtml
+C:\zcode\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Views\PaymentPurchaseOrder\PaymentInfo.cshtml
+C:\zcode\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\web.config
+C:\zcode\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Description.txt
+C:\zcode\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\logo.jpg
+C:\zcode\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Nop.Plugin.Payments.PurchaseOrder.dll.config
+C:\zcode\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Nop.Plugin.Payments.PurchaseOrder.dll
+C:\zcode\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Nop.Plugin.Payments.PurchaseOrder.pdb
+C:\zcode\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.csprojResolveAssemblyReference.cache
+C:\zcode\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.dll
+C:\zcode\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.pdb

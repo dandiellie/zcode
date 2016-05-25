@@ -18,3 +18,13 @@ C:\Users\dandi\Dropbox\Public\ZApparel\demo-template\Presentation\Nop.Web\Plugin
 C:\Users\dandi\Dropbox\Public\ZApparel\demo-template\Plugins\Nop.Plugin.Shipping.UPS\obj\Debug\Nop.Plugin.Shipping.UPS.csprojResolveAssemblyReference.cache
 C:\Users\dandi\Dropbox\Public\ZApparel\demo-template\Plugins\Nop.Plugin.Shipping.UPS\obj\Debug\Nop.Plugin.Shipping.UPS.dll
 C:\Users\dandi\Dropbox\Public\ZApparel\demo-template\Plugins\Nop.Plugin.Shipping.UPS\obj\Debug\Nop.Plugin.Shipping.UPS.pdb
+C:\zcode\Presentation\Nop.Web\Plugins\Shipping.UPS\Views\ShippingUPS\Configure.cshtml
+C:\zcode\Presentation\Nop.Web\Plugins\Shipping.UPS\web.config
+C:\zcode\Presentation\Nop.Web\Plugins\Shipping.UPS\Description.txt
+C:\zcode\Presentation\Nop.Web\Plugins\Shipping.UPS\logo.jpg
+C:\zcode\Presentation\Nop.Web\Plugins\Shipping.UPS\Nop.Plugin.Shipping.UPS.dll.config
+C:\zcode\Presentation\Nop.Web\Plugins\Shipping.UPS\Nop.Plugin.Shipping.UPS.dll
+C:\zcode\Presentation\Nop.Web\Plugins\Shipping.UPS\Nop.Plugin.Shipping.UPS.pdb
+C:\zcode\Plugins\Nop.Plugin.Shipping.UPS\obj\Debug\Nop.Plugin.Shipping.UPS.csprojResolveAssemblyReference.cache
+C:\zcode\Plugins\Nop.Plugin.Shipping.UPS\obj\Debug\Nop.Plugin.Shipping.UPS.dll
+C:\zcode\Plugins\Nop.Plugin.Shipping.UPS\obj\Debug\Nop.Plugin.Shipping.UPS.pdb

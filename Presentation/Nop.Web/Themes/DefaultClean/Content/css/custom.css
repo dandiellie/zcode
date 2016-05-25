@@ -20,6 +20,12 @@
 .page-title {
     margin: 0 0 0px !important;
 }
+.nivoSlider {
+    margin-top: 2em;
+}
+.page-body .no-data {
+    margin-top: 10px;
+}
 @media (min-width: 417px) {
     .hide-greater-417 {
         display: none;

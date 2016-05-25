@@ -20,3 +20,14 @@ C:\Users\dandi\Dropbox\Public\ZApparel\demo-template\Presentation\Nop.Web\Plugin
 C:\Users\dandi\Dropbox\Public\ZApparel\demo-template\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\Nop.Plugin.Payments.PayPalDirect.csprojResolveAssemblyReference.cache
 C:\Users\dandi\Dropbox\Public\ZApparel\demo-template\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\Nop.Plugin.Payments.PayPalDirect.dll
 C:\Users\dandi\Dropbox\Public\ZApparel\demo-template\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\Nop.Plugin.Payments.PayPalDirect.pdb
+C:\zcode\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Views\PaymentPayPalDirect\Configure.cshtml
+C:\zcode\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Views\PaymentPayPalDirect\PaymentInfo.cshtml
+C:\zcode\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\web.config
+C:\zcode\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Description.txt
+C:\zcode\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\logo.jpg
+C:\zcode\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Nop.Plugin.Payments.PayPalDirect.dll.config
+C:\zcode\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Nop.Plugin.Payments.PayPalDirect.dll
+C:\zcode\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Nop.Plugin.Payments.PayPalDirect.pdb
+C:\zcode\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\Nop.Plugin.Payments.PayPalDirect.csprojResolveAssemblyReference.cache
+C:\zcode\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\Nop.Plugin.Payments.PayPalDirect.dll
+C:\zcode\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\Nop.Plugin.Payments.PayPalDirect.pdb

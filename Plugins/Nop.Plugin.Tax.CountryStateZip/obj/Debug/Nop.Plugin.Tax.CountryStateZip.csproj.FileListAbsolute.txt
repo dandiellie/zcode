@@ -18,3 +18,13 @@ C:\Users\dandi\Dropbox\Public\ZApparel\demo-template\Presentation\Nop.Web\Plugin
 C:\Users\dandi\Dropbox\Public\ZApparel\demo-template\Plugins\Nop.Plugin.Tax.CountryStateZip\obj\Debug\Nop.Plugin.Tax.CountryStateZip.csprojResolveAssemblyReference.cache
 C:\Users\dandi\Dropbox\Public\ZApparel\demo-template\Plugins\Nop.Plugin.Tax.CountryStateZip\obj\Debug\Nop.Plugin.Tax.CountryStateZip.dll
 C:\Users\dandi\Dropbox\Public\ZApparel\demo-template\Plugins\Nop.Plugin.Tax.CountryStateZip\obj\Debug\Nop.Plugin.Tax.CountryStateZip.pdb
+C:\zcode\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\Views\TaxCountryStateZip\Configure.cshtml
+C:\zcode\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\Description.txt
+C:\zcode\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\web.config
+C:\zcode\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\logo.jpg
+C:\zcode\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\Nop.Plugin.Tax.CountryStateZip.dll.config
+C:\zcode\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\Nop.Plugin.Tax.CountryStateZip.dll
+C:\zcode\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\Nop.Plugin.Tax.CountryStateZip.pdb
+C:\zcode\Plugins\Nop.Plugin.Tax.CountryStateZip\obj\Debug\Nop.Plugin.Tax.CountryStateZip.csprojResolveAssemblyReference.cache
+C:\zcode\Plugins\Nop.Plugin.Tax.CountryStateZip\obj\Debug\Nop.Plugin.Tax.CountryStateZip.dll
+C:\zcode\Plugins\Nop.Plugin.Tax.CountryStateZip\obj\Debug\Nop.Plugin.Tax.CountryStateZip.pdb

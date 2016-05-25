@@ -1,2 +1,2 @@
-DataProvider: 
-DataConnectionString: 
+DataProvider: sqlserver
+DataConnectionString: Data Source=DAVID\SQLEXPRESS;Initial Catalog=zdemo;Integrated Security=True;Persist Security Info=True

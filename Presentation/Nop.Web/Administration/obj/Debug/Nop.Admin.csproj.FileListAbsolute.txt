@@ -10,3 +10,9 @@ C:\Users\dandi\Dropbox\Public\ZApparel\demo-template\Presentation\Nop.Web\bin\No
 C:\Users\dandi\Dropbox\Public\ZApparel\demo-template\Presentation\Nop.Web\Administration\obj\Debug\Nop.Admin.csprojResolveAssemblyReference.cache
 C:\Users\dandi\Dropbox\Public\ZApparel\demo-template\Presentation\Nop.Web\Administration\obj\Debug\Nop.Admin.dll
 C:\Users\dandi\Dropbox\Public\ZApparel\demo-template\Presentation\Nop.Web\Administration\obj\Debug\Nop.Admin.pdb
+C:\zcode\Presentation\Nop.Web\bin\Nop.Admin.dll.config
+C:\zcode\Presentation\Nop.Web\bin\Nop.Admin.dll
+C:\zcode\Presentation\Nop.Web\bin\Nop.Admin.pdb
+C:\zcode\Presentation\Nop.Web\Administration\obj\Debug\Nop.Admin.csprojResolveAssemblyReference.cache
+C:\zcode\Presentation\Nop.Web\Administration\obj\Debug\Nop.Admin.dll
+C:\zcode\Presentation\Nop.Web\Administration\obj\Debug\Nop.Admin.pdb

@@ -8,8 +8,8 @@ namespace Nop.Web.Controllers
         [NopHttpsRequirement(SslRequirement.No)]
         public ActionResult Index()
         {
-            // return View();
-            return Redirect(Url.Content("~/products"));
+            return View();
+            // return Redirect(Url.Content("~/products"));
         }
     }
 }
